@@ -1,5 +1,62 @@
-# 💫 About Me:
-# 👑 Welcome to My Jungle — I’m Phiwe<br><br>🌿 Creative technologist | 🎨 Afro-futurist web dreamer | 🧠 Building magical spaces with code & imagination<br><br>---<br><br>### 🐆 What I'm About<br><br>I'm crafting digital experiences that feel more like zines, mixtapes, and rituals than just websites. My work mixes expressive front-end design with intentional back-end architecture—where mood meets structure, and vibe meets version control.<br><br>🔮 Current Focus:  <br>- Building immersive digital experiences that blend aesthetic storytelling, cultural identity, and technical intention<br>- Learning in public through projects that challenge me to explore front-end frameworks, secure backend logic, and expressive UI/UX philosophy<br>- Evolving as a creative technologist, experimenting at the intersection of design, code, sound, and mood<br>- Contributing to web ecosystems where accessibility, beauty, and meaning coexist<br>- Growing slowly, intentionally because mastery is a jungle, not a ladder<br><br>---<br><br>### 🧠 My Stack of Choice<br>- **Languages**: TypeScript • JavaScript • SQL  PYTHON JAVA <br>- **Frameworks**: React • Vite • shadcn-ui<br>- **Design**: Canva • Figma • Tailwind Magic<br>- **Databases**: Supabase • Firebase<br>- **Dev Tools**: VS Code • Git • GitHub CLI  INTELIJI<br><br>---<br><br>### 📸 Featured Projects<br><br>- A retro blog with mood-based themes and Y2K chaos in full glitter<br>- <br>A dream-journal jungle site with aura profiles, lo-fi soul vibes & floating sparkles<br>- <br>A fun, flirty app that measures compatibility with flair—perfect for Valentine’s Day coding magic<br>- <br>A lightweight, self-made search engine experiment that explores indexing, querying, and user interface design—tiny but mighty<br><br>---<br><br>### 🐚 Let's Build Beautiful Things<br><br>If you're into designing expressive, mood-rich, soul-coded apps—or if you just wanna vibe with jungle palettes and spiritual buttons—I’m your person.<br><br>📬 Reach out or collab at: **tshepisomoloi78@gmail.com**  <br>💫 Stay magical, stay intentional.Code like the vibes depend on it." — Phiwe 🐆🌺💻<br><br><br>
+# 💫 About Me
+
+## 👑 Welcome to My Jungle — I’m Simphiwe
+
+🌿 Creative technologist • 🎨 Afro-futurist web dreamer • 🧠 Building magical spaces with code & imagination
+
+---
+
+### 🐆 What I'm About
+
+I craft digital experiences that feel more like zines, mixtapes, and rituals than just websites. My work blends expressive front-end design with intentional back-end architecture—where mood meets structure and vibe meets version control.
+
+---
+
+### 🔮 Current Focus
+
+- Building immersive digital experiences that blend aesthetic storytelling, cultural identity, and technical intention  
+- Learning in public through projects that challenge me to explore front-end frameworks, secure backend logic, and expressive UI/UX philosophy  
+- Evolving as a creative technologist, experimenting at the intersection of design, code, sound, and mood  
+- Contributing to web ecosystems where accessibility, beauty, and meaning coexist  
+- Growing slowly, intentionally—because mastery is a jungle, not a ladder
+
+---
+
+### 🧠 My Stack of Choice
+
+- **Languages**: TypeScript • JavaScript • SQL • Python • Java  
+- **Frameworks**: React • Vite • shadcn-ui  
+- **Design Tools**: Canva • Figma • Tailwind Magic  
+- **Databases**: Supabase • Firebase  
+- **Dev Tools**: VS Code • Git • GitHub CLI • IntelliJ
+
+---
+
+### 📸 Featured Projects
+
+- [`Mind Tales`](https://github.com/your-username/mind-tales)  
+  A retro blog with mood-based themes and Y2K chaos in full glitter  
+
+- [`Soul Bloom`](https://github.com/your-username/soul-bloom)  
+  A dream-journal jungle site with aura profiles, lo-fi soul vibes & floating sparkles  
+
+- [`Love Calculator`](https://github.com/your-username/love-calculator)  
+  A fun, flirty app that measures compatibility with flair—perfect for Valentine’s Day coding magic  
+
+- [`Mini Google`](https://github.com/your-username/mini-google)  
+  A lightweight, self-made search engine experiment that explores indexing, querying, and UI design—tiny but mighty  
+
+> 💡 _And this is just the beginning—many more bold, vibe-rich projects are blooming soon..._
+
+---
+
+### 🐚 Let's Build Beautiful Things
+
+If you're into designing expressive, mood-rich, soul-coded apps—or if you just wanna vibe with jungle palettes and spiritual buttons—I’m your person.
+
+📬 Reach out or collab at: **tshepisomoloi78@gmail.com**  
+💫 Stay magical, stay intentional. *Code like the vibes depend on it.* — Simphiwe 🐆🌺💻
+
 
 
 ## 🌐 Socials:
