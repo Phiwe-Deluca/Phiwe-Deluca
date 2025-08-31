@@ -34,16 +34,16 @@ I craft digital experiences that feel more like zines, mixtapes, and rituals tha
 
 ### 📸 Featured Projects
 
-- [`Mind Tales`](https://github.com/your-username/mind-tales)  
+- [`Mind Tales`](https://github.com/Phiwe-Deluca/Mind_Tales)  
   A retro blog with mood-based themes and Y2K chaos in full glitter  
 
 - [`Soul Bloom`](https://github.com/your-username/soul-bloom)  
   A dream-journal jungle site with aura profiles, lo-fi soul vibes & floating sparkles  
 
-- [`Love Calculator`](https://github.com/your-username/love-calculator)  
+- [`Love Calculator`](https://github.com/Phiwe-Deluca/Love-calulator)  
   A fun, flirty app that measures compatibility with flair—perfect for Valentine’s Day coding magic  
 
-- [`Mini Google`](https://github.com/your-username/mini-google)  
+- [`Mini Google`](https://github.com/Phiwe-Deluca/GoogleLite)  
   A lightweight, self-made search engine experiment that explores indexing, querying, and UI design—tiny but mighty  
 
 > 💡 _And this is just the beginning—many more bold, vibe-rich projects are blooming soon..._
