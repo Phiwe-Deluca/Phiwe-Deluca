@@ -49,7 +49,7 @@ I craft digital experiences that feel more like zines, mixtapes, and rituals tha
 
 ### 🐚 Let's Build Beautiful Things
 
-If you're into designing expressive, mood-rich, soul-coded apps—or if you just wanna vibe with jungle palettes and spiritual buttons—I’m your person.
+If you're into designing expressive, mood-rich, soul-coded apps or if you just wanna vibe with jungle palettes and spiritual buttons I’m your person.
 
 📬 Reach out or collab at: **tshepisomoloi78@gmail.com**  
 💫 Stay magical, stay intentional. *Code like the vibes depend on it.* — Simphiwe 🐆🌺💻
