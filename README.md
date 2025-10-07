@@ -35,10 +35,7 @@ I craft digital experiences that feel more like zines, mixtapes, and rituals tha
 ### 📸 Featured Projects
 
 - [`Mind Tales`](https://github.com/Phiwe-Deluca/Mind_Tales)  
-  A retro blog with mood-based themes and Y2K chaos in full glitter  
-
-- [`Soul Bloom`](https://github.com/your-username/soul-bloom)  
-  A dream-journal jungle site with aura profiles, lo-fi soul vibes & floating sparkles  
+  A retro blog with mood-based themes and Y2K chaos in full glitter   
 
 - [`Love Calculator`](https://github.com/Phiwe-Deluca/Love-calulator)  
   A fun, flirty app that measures compatibility with flair—perfect for Valentine’s Day coding magic  
