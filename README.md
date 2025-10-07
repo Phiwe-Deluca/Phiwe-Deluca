@@ -1,6 +1,6 @@
 # 💫 About Me
 
-## 👑 Welcome to My Jungle — I’m Simphiwe
+## 👑 Welcome to My Jungle, I’m Simphiwe
 
 🌿 Creative technologist • 🎨 Afro-futurist web dreamer • 🧠 Building magical spaces with code & imagination
 
@@ -8,7 +8,7 @@
 
 ### 🐆 What I'm About
 
-I craft digital experiences that feel more like zines, mixtapes, and rituals than just websites. My work blends expressive front-end design with intentional back-end architecture—where mood meets structure and vibe meets version control.
+I craft digital experiences that feel more like zines, mixtapes, and rituals than just websites. My work blends expressive front-end design with intentional back-end architecture where mood meets structure and vibe meets version control.
 
 ---
 
@@ -18,7 +18,7 @@ I craft digital experiences that feel more like zines, mixtapes, and rituals tha
 - Learning in public through projects that challenge me to explore front-end frameworks, secure backend logic, and expressive UI/UX philosophy  
 - Evolving as a creative technologist, experimenting at the intersection of design, code, sound, and mood  
 - Contributing to web ecosystems where accessibility, beauty, and meaning coexist  
-- Growing slowly, intentionally—because mastery is a jungle, not a ladder
+- Growing slowly, intentionally because mastery is a jungle, not a ladder
 
 ---
 
@@ -27,7 +27,7 @@ I craft digital experiences that feel more like zines, mixtapes, and rituals tha
 - **Languages**: TypeScript • JavaScript • SQL • Python • Java  
 - **Frameworks**: React • Vite • shadcn-ui  
 - **Design Tools**: Canva • Figma • Tailwind Magic  
-- **Databases**: Supabase • Firebase  
+- **Databases**: Supabase • Firebase • SQL
 - **Dev Tools**: VS Code • Git • GitHub CLI • IntelliJ
 
 ---
@@ -43,7 +43,7 @@ I craft digital experiences that feel more like zines, mixtapes, and rituals tha
 - [`Mini Google`](https://github.com/Phiwe-Deluca/GoogleLite)  
   A lightweight, self-made search engine experiment that explores indexing, querying, and UI design—tiny but mighty  
 
-> 💡 _And this is just the beginning—many more bold, vibe-rich projects are blooming soon..._
+> 💡 _And this is just the beginning many more bold, vibe-rich projects are blooming soon..._
 
 ---
 
